@@ -52,7 +52,9 @@ To build a network, you need both **hardware** and **software** components, alon
 ---
 
 ## 👥 Clients
-
+<div align="center">
+  <img src="../img/client.png" alt="Schéma réseau" width="400">
+</div>
 A **Client** refers to a device (usually a computer, smartphone, or application) that **requests and receives services** from a server.  
 It initiates communication by asking for data or resources.
 
@@ -63,7 +65,9 @@ It initiates communication by asking for data or resources.
 ---
 
 ## 🖥️ Servers
-
+<div align="center">
+  <img src="../img/server.png" alt="Schéma réseau" width="400">
+</div>
 A **Server** is a remote computer or system that **provides data, resources, or services** to clients.  
 It listens to incoming client requests, processes them, and responds with the required information.
 
