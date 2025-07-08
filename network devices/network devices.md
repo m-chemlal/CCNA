@@ -1,5 +1,8 @@
 # What is a Network?
-<img src="../img/network devices.png" alt="Schéma réseau" width="400"/>
+<div align="center">
+  <img src="../img/network devices.png" alt="Schéma réseau" width="400">
+</div>
+
 A **Computer Network** is a system where two or more devices (nodes) are linked together to share data, resources, and information. These networks can range from simple setups, like connecting two devices in your home, to massive global systems, like the Internet.  
 
 > _"A computer network is a digital telecommunications network which allows nodes to share resources."_
