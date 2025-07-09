@@ -88,3 +88,4 @@ Switches
 Routers
 Firewalls
 Supplementary Materials
+![Network switches](https://upload.wikimedia.org/wikipedia/commons/0/09/Network_switches.jpg)
