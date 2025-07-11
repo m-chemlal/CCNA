@@ -85,7 +85,9 @@ It listens to incoming client requests, processes them, and responds with the re
 ---
 
 Switches
+What is a Switch?
+It is a point-to-point communication device. Basically, it is a kind of bridge that provides better connections. It is a kind of device that sets up and stops the connections according to the requirements needed at that time. It comes up with many features such as flooding, filtering, and frame transmission.
+
 Routers
 Firewalls
 Supplementary Materials
-![Network switches](https://upload.wikimedia.org/wikipedia/commons/0/09/Network_switches.jpg)
